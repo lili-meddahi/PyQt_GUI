@@ -1,0 +1,1 @@
+This is a simple GUI designed to take JSON data of a list of countries(and other various details) and create a dropdown menu of the names of all of them, alphabetized. There is also a test file to ensure the API logic works soundly.
